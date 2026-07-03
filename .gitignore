@@ -1,0 +1,13 @@
+# Ignore temporary/development scripts and outputs
+download_ext.py
+extension.crx
+extension.zip
+extension_extracted/
+test_api.py
+
+# System/IDE files
+.gemini/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
